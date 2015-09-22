@@ -26,7 +26,7 @@ The campaign may remove any offensive, abusive, attacking, or discriminatory con
 ## Copyright and License
 
 Copyright 2015 Lessig Equal Citizens Exploratory Committee. This 
-project is released under [GNU Affero General Public License, version 3](https://github.com/Lessig2016/canvas/blob/master/LICENSE).
+project is released under [GNU Affero General Public License, version 3](https://github.com/Lessig2016/canvas/blob/master/LICENSE-AGPL).
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
