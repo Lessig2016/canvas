@@ -1,11 +1,6 @@
-# Lessigram
+# Canvas
 
-Assignment: build a Facebook/Twitter integration to allow a user to add the Lessig flag icon or Lessig's glasses to their avatar.
-
-Bonus points: 
-
-  * A mobile app
-  * A portal site for viewing/liking/sharing
+Assignment: build a mobile application for canvassing at scale.
 
 
 ## Code of Conduct
